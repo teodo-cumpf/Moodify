@@ -1,0 +1,936 @@
+{
+    "happy": [
+        {
+            "title": "Happy",
+            "author": "Pharrell Williams"
+        },
+        {
+            "title": "Walking On Sunshine",
+            "author": "Katrina and the Waves"
+        },
+        {
+            "title": "I Got You (I Feel Good)",
+            "author": "James Brown"
+        },
+        {
+            "title": "Wake Me Up Before You Go-Go",
+            "author": "Wham!"
+        },
+        {
+            "title": "Valerie",
+            "author": "Amy Winehouse"
+        },
+        {
+            "title": "September",
+            "author": "Earth, Wind & Fire"
+        },
+        {
+            "title": "Dancing in the Street",
+            "author": "Martha Reeves & The Vandellas"
+        },
+        {
+            "title": "Best Day of My Life",
+            "author": "American Authors"
+        },
+        {
+            "title": "ABC",
+            "author": "The Jackson 5"
+        }
+    ],
+    "sad": [
+        {
+            "title": "Someone Like You",
+            "author": "Adele"
+        },
+        {
+            "title": "Yesterday",
+            "author": "The Beatles"
+        },
+        {
+            "title": "The Sound of Silence",
+            "author": "Simon & Garfunkel"
+        },
+        {
+            "title": "Mad World",
+            "author": "Gary Jules"
+        },
+        {
+            "title": "Fix You",
+            "author": "Coldplay"
+        },
+        {
+            "title": "Hallelujah",
+            "author": "Jeff Buckley"
+        },
+        {
+            "title": "I’m So Lonesome I Could Cry",
+            "author": "Hank Williams"
+        },
+        {
+            "title": "Nothing Compares 2 U",
+            "author": "Sinéad O'Connor"
+        },
+        {
+            "title": "Whiskey Lullaby",
+            "author": "Brad Paisley ft. Alison Krauss"
+        }
+    ],
+    "silly": [
+        {
+            "title": "Barbie Girl",
+            "author": "Aqua"
+        },
+        {
+            "title": "I'm Too Sexy",
+            "author": "Right Said Fred"
+        },
+        {
+            "title": "Wannabe",
+            "author": "Spice Girls"
+        },
+        {
+            "title": "Yellow Submarine",
+            "author": "The Beatles"
+        },
+        {
+            "title": "Yakety Yak",
+            "author": "The Coasters"
+        },
+        {
+            "title": "Banana Boat (Day O)",
+            "author": "Harry Belafonte"
+        },
+        {
+            "title": "Purple People Eater",
+            "author": "Sheb Wooley"
+        },
+        {
+            "title": "The Chicken Dance",
+            "author": "Werner Thomas"
+        },
+        {
+            "title": "The Hamster Dance Song",
+            "author": "Roger Miller"
+        },
+        {
+            "title": "The Loco-Motion",
+            "author": "Little Eva"
+        },
+        {
+            "title": "I'm a Believer",
+            "author": "The Monkees"
+        },
+        {
+            "title": "Octopus's Garden",
+            "author": "The Beatles"
+        },
+        {
+            "title": "The Time Warp",
+            "author": "Rocky Horror Picture Show Cast"
+        },
+        {
+            "title": "Surfin' Bird",
+            "author": "The Trashmen"
+        }
+    ],
+    "sentimental": [
+        {
+            "title": "Unchained Melody",
+            "author": "The Righteous Brothers"
+        },
+        {
+            "title": "My Way",
+            "author": "Frank Sinatra"
+        },
+        {
+            "title": "Memory",
+            "author": "Barbra Streisand"
+        },
+        {
+            "title": "Can't Help Falling In Love",
+            "author": "Elvis Presley"
+        },
+        {
+            "title": "I Left My Heart In San Francisco",
+            "author": "Tony Bennett"
+        },
+        {
+            "title": "Vincent",
+            "author": "Don McLean"
+        },
+        {
+            "title": "Remember When",
+            "author": "Alan Jackson"
+        },
+        {
+            "title": "Time After Time",
+            "author": "Cyndi Lauper"
+        },
+        {
+            "title": "In My Life",
+            "author": "The Beatles"
+        },
+        {
+            "title": "Candle in the Wind",
+            "author": "Elton John"
+        },
+        {
+            "title": "I Will Remember You",
+            "author": "Sarah McLachlan"
+        },
+        {
+            "title": "Memory",
+            "author": "Elaine Paige"
+        },
+        {
+            "title": "Tears in Heaven",
+            "author": "Eric Clapton"
+        },
+        {
+            "title": "You've Got a Friend",
+            "author": "James Taylor"
+        }
+    ],
+    "nostalgic": [
+        {
+            "title": "Summer of '69",
+            "author": "Bryan Adams"
+        },
+        {
+            "title": "Take Me Home, Country Roads",
+            "author": "John Denver"
+        },
+        {
+            "title": "American Pie",
+            "author": "Don McLean"
+        },
+        {
+            "title": "Don’t Stop Believin'",
+            "author": "Journey"
+        },
+        {
+            "title": "Bohemian Rhapsody",
+            "author": "Queen"
+        },
+        {
+            "title": "Yesterday Once More",
+            "author": "The Carpenters"
+        },
+        {
+            "title": "Do You Remember",
+            "author": "Jack Johnson"
+        },
+        {
+            "title": "Reelin' In the Years",
+            "author": "Steely Dan"
+        },
+        {
+            "title": "Brown Eyed Girl",
+            "author": "Van Morrison"
+        },
+        {
+            "title": "Memory",
+            "author": "Barbra Streisand"
+        },
+        {
+            "title": "Those Were the Days",
+            "author": "Mary Hopkin"
+        },
+        {
+            "title": "Photograph",
+            "author": "Ed Sheeran"
+        },
+        {
+            "title": "1979",
+            "author": "The Smashing Pumpkins"
+        },
+        {
+            "title": "Boys of Summer",
+            "author": "Don Henley"
+        },
+        {
+            "title": "Auld Lang Syne",
+            "author": "Traditional"
+        }
+    ],
+    "energetic": [
+        {
+            "title": "Eye of the Tiger",
+            "author": "Survivor"
+        },
+        {
+            "title": "Footloose",
+            "author": "Kenny Loggins"
+        },
+        {
+            "title": "Jump",
+            "author": "Van Halen"
+        },
+        {
+            "title": "Thunderstruck",
+            "author": "AC/DC"
+        },
+        {
+            "title": "Livin’ on a Prayer",
+            "author": "Bon Jovi"
+        },
+        {
+            "title": "We Will Rock You",
+            "author": "Queen"
+        },
+        {
+            "title": "Born to Run",
+            "author": "Bruce Springsteen"
+        },
+        {
+            "title": "Highway to Hell",
+            "author": "AC/DC"
+        },
+        {
+            "title": "Final Countdown",
+            "author": "Europe"
+        },
+        {
+            "title": "Uptown Funk",
+            "author": "Mark Ronson ft. Bruno Mars"
+        },
+        {
+            "title": "Dancing with Myself",
+            "author": "Billy Idol"
+        }
+    ],
+    "confident": [
+        {
+            "title": "Confident",
+            "author": "Demi Lovato"
+        },
+        {
+            "title": "Started From the Bottom",
+            "author": "Drake"
+        },
+        {
+            "title": "Can’t Hold Us",
+            "author": "Macklemore & Ryan Lewis"
+        },
+        {
+            "title": "Feeling Myself",
+            "author": "Nicki Minaj ft. Beyoncé"
+        },
+        {
+            "title": "Formation",
+            "author": "Beyoncé"
+        },
+        {
+            "title": "Power",
+            "author": "Kanye West"
+        },
+        {
+            "title": "Look What You Made Me Do",
+            "author": "Taylor Swift"
+        },
+        {
+            "title": "Roar",
+            "author": "Katy Perry"
+        },
+        {
+            "title": "Stronger",
+            "author": "Kanye West"
+        }
+    ],
+    "on cloud nine": [
+        {
+            "title": "Walking on Air",
+            "author": "Katy Perry"
+        },
+        {
+            "title": "Cloud Nine",
+            "author": "Evanescence"
+        },
+        {
+            "title": "On Top of the World",
+            "author": "Imagine Dragons"
+        },
+        {
+            "title": "Fly Away",
+            "author": "Lenny Kravitz"
+        },
+        {
+            "title": "Touch the Sky",
+            "author": "Kanye West"
+        },
+        {
+            "title": "Here Comes the Sun",
+            "author": "The Beatles"
+        },
+        {
+            "title": "Feeling Good",
+            "author": "Michael Bublé"
+        },
+        {
+            "title": "What a Wonderful World",
+            "author": "Louis Armstrong"
+        },
+        {
+            "title": "Good Life",
+            "author": "OneRepublic"
+        }
+    ],
+    "cozy as a cat": [
+        {
+            "title": "Banana Pancakes",
+            "author": "Jack Johnson"
+        },
+        {
+            "title": "Don't Know Why",
+            "author": "Norah Jones"
+        },
+        {
+            "title": "Put Your Records On",
+            "author": "Corinne Bailey Rae"
+        },
+        {
+            "title": "Sunday Morning",
+            "author": "Maroon 5"
+        },
+        {
+            "title": "Come Away With Me",
+            "author": "Norah Jones"
+        },
+        {
+            "title": "Home",
+            "author": "Edward Sharpe & The Magnetic Zeros"
+        },
+        {
+            "title": "Better Together",
+            "author": "Jack Johnson"
+        },
+        {
+            "title": "Three Little Birds",
+            "author": "Bob Marley & The Wailers"
+        },
+        {
+            "title": "Budapest",
+            "author": "George Ezra"
+        }
+    ],
+    "floating in space": [
+        {
+            "title": "Space Oddity",
+            "author": "David Bowie"
+        },
+        {
+            "title": "Interstellar Overdrive",
+            "author": "Pink Floyd"
+        },
+        {
+            "title": "Rocket Man",
+            "author": "Elton John"
+        },
+        {
+            "title": "Starman",
+            "author": "David Bowie"
+        },
+        {
+            "title": "Supersonic Rocket Ship",
+            "author": "The Kinks"
+        },
+        {
+            "title": "Satellite",
+            "author": "Guster"
+        },
+        {
+            "title": "Across the Universe",
+            "author": "The Beatles"
+        },
+        {
+            "title": "Champagne Supernova",
+            "author": "Oasis"
+        },
+        {
+            "title": "Drops of Jupiter",
+            "author": "Train"
+        }
+    ],
+    "sunny side up": [
+        {
+            "title": "Good Day Sunshine",
+            "author": "The Beatles"
+        },
+        {
+            "title": "Soak Up the Sun",
+            "author": "Sheryl Crow"
+        },
+        {
+            "title": "Island in the Sun",
+            "author": "Weezer"
+        },
+        {
+            "title": "Sunshine of Your Love",
+            "author": "Cream"
+        },
+        {
+            "title": "Brighter Than The Sun",
+            "author": "Colbie Caillat"
+        },
+        {
+            "title": "Pocketful of Sunshine",
+            "author": "Natasha Bedingfield"
+        },
+        {
+            "title": "Sunshine",
+            "author": "Steve Azar"
+        }
+    ],
+    "burst balloon": [
+        {
+            "title": "Boulevard of Broken Dreams",
+            "author": "Green Day"
+        },
+        {
+            "title": "Everybody Hurts",
+            "author": "R.E.M."
+        },
+        {
+            "title": "Hurt",
+            "author": "Johnny Cash"
+        },
+        {
+            "title": "Creep",
+            "author": "Radiohead"
+        },
+        {
+            "title": "Behind Blue Eyes",
+            "author": "The Who"
+        },
+        {
+            "title": "Empty Chairs at Empty Tables",
+            "author": "Les Misérables Cast"
+        },
+        {
+            "title": "The Tears of a Clown",
+            "author": "Smokey Robinson & The Miracles"
+        }
+    ],
+    "buried under a blanket": [
+        {
+            "title": "Winter",
+            "author": "Tori Amos"
+        },
+        {
+            "title": "Hazy Shade of Winter",
+            "author": "Simon & Garfunkel"
+        },
+        {
+            "title": "Comfortably Numb",
+            "author": "Pink Floyd"
+        },
+        {
+            "title": "Under The Weather",
+            "author": "KT Tunstall"
+        },
+        {
+            "title": "I Can't Stand The Rain",
+            "author": "Ann Peebles"
+        },
+        {
+            "title": "Cuddle Up",
+            "author": "The Beach Boys"
+        },
+        {
+            "title": "Landslide",
+            "author": "Fleetwood Mac"
+        },
+        {
+            "title": "November Rain",
+            "author": "Guns N' Roses"
+        }
+    ],
+    "shining star": [
+        {
+            "title": "Shining Star",
+            "author": "Earth, Wind & Fire"
+        },
+        {
+            "title": "Counting Stars",
+            "author": "OneRepublic"
+        },
+        {
+            "title": "Shine",
+            "author": "Collective Soul"
+        },
+        {
+            "title": "Starships",
+            "author": "Nicki Minaj"
+        },
+        {
+            "title": "Shine On You Crazy Diamond",
+            "author": "Pink Floyd"
+        },
+        {
+            "title": "All Star",
+            "author": "Smash Mouth"
+        },
+        {
+            "title": "Starry Eyed",
+            "author": "Ellie Goulding"
+        },
+        {
+            "title": "Shine",
+            "author": "Years & Years"
+        },
+        {
+            "title": "Written in the Stars",
+            "author": "Tinie Tempah ft. Eric Turner"
+        }
+    ],
+    "amazed": [
+        {
+            "title": "Amazed",
+            "author": "Lonestar"
+        },
+        {
+            "title": "Isn't She Lovely",
+            "author": "Stevie Wonder"
+        },
+        {
+            "title": "Wonderwall",
+            "author": "Oasis"
+        },
+        {
+            "title": "You Are So Beautiful",
+            "author": "Joe Cocker"
+        },
+        {
+            "title": "Just The Way You Are",
+            "author": "Bruno Mars"
+        },
+        {
+            "title": "A Moment Like This",
+            "author": "Kelly Clarkson"
+        },
+        {
+            "title": "How Sweet It Is (To Be Loved By You)",
+            "author": "James Taylor"
+        },
+        {
+            "title": "Over The Rainbow",
+            "author": "Judy Garland"
+        }
+    ],
+    "dreamy": [
+        {
+            "title": "Dream On",
+            "author": "Aerosmith"
+        },
+        {
+            "title": "Sweet Dreams (Are Made of This)",
+            "author": "Eurythmics"
+        },
+        {
+            "title": "Just Like Heaven",
+            "author": "The Cure"
+        },
+        {
+            "title": "Golden Slumbers",
+            "author": "The Beatles"
+        },
+        {
+            "title": "Dreams",
+            "author": "Fleetwood Mac"
+        },
+        {
+            "title": "In Dreams",
+            "author": "Roy Orbison"
+        },
+        {
+            "title": "Daydream Believer",
+            "author": "The Monkees"
+        },
+        {
+            "title": "Dreamlover",
+            "author": "Mariah Carey"
+        },
+        {
+            "title": "Dreaming of You",
+            "author": "Selena"
+        }
+    ],
+    "eager": [
+        {
+            "title": "Can't Stop the Feeling!",
+            "author": "Justin Timberlake"
+        },
+        {
+            "title": "I Gotta Feeling",
+            "author": "The Black Eyed Peas"
+        },
+        {
+            "title": "One Way Or Another",
+            "author": "Blondie"
+        },
+        {
+            "title": "Eager Beaver",
+            "author": "Stan Kenton"
+        },
+        {
+            "title": "Electric Feel",
+            "author": "MGMT"
+        },
+        {
+            "title": "Ready or Not",
+            "author": "The Fugees"
+        },
+        {
+            "title": "Pumped Up Kicks",
+            "author": "Foster The People"
+        }
+    ],
+    "joyful": [
+        {
+            "title": "Celebration",
+            "author": "Kool & The Gang"
+        },
+        {
+            "title": "Joy To The World",
+            "author": "Three Dog Night"
+        },
+        {
+            "title": "Beautiful Day",
+            "author": "U2"
+        },
+        {
+            "title": "Happy Together",
+            "author": "The Turtles"
+        },
+        {
+            "title": "I Feel Good",
+            "author": "James Brown"
+        },
+        {
+            "title": "You Make My Dreams",
+            "author": "Hall & Oates"
+        },
+        {
+            "title": "Don't Stop Me Now",
+            "author": "Queen"
+        },
+        {
+            "title": "Girls Just Want to Have Fun",
+            "author": "Cyndi Lauper"
+        }
+    ],
+    "loving": [
+        {
+            "title": "All You Need Is Love",
+            "author": "The Beatles"
+        },
+        {
+            "title": "I Will Always Love You",
+            "author": "Whitney Houston"
+        },
+        {
+            "title": "Endless Love",
+            "author": "Diana Ross & Lionel Richie"
+        },
+        {
+            "title": "Bleeding Love",
+            "author": "Leona Lewis"
+        },
+        {
+            "title": "L-O-V-E",
+            "author": "Nat King Cole"
+        },
+        {
+            "title": "I Just Called to Say I Love You",
+            "author": "Stevie Wonder"
+        },
+        {
+            "title": "Tainted Love",
+            "author": "Soft Cell"
+        },
+        {
+            "title": "Vision of Love",
+            "author": "Mariah Carey"
+        },
+        {
+            "title": "Power of Love",
+            "author": "Huey Lewis and the News"
+        }
+    ],
+    "envious": [
+        {
+            "title": "Jealous",
+            "author": "Nick Jonas"
+        },
+        {
+            "title": "Jealousy",
+            "author": "Queen"
+        },
+        {
+            "title": "Jealous Again",
+            "author": "The Black Crowes"
+        },
+        {
+            "title": "Jealousy",
+            "author": "Natalie Merchant"
+        },
+        {
+            "title": "Green Eyes",
+            "author": "Coldplay"
+        },
+        {
+            "title": "Something I Can Never Have",
+            "author": "Nine Inch Nails"
+        },
+        {
+            "title": "Jealous Guy",
+            "author": "John Lennon"
+        },
+        {
+            "title": "Bad Blood",
+            "author": "Taylor Swift"
+        },
+        {
+            "title": "Jealousy",
+            "author": "Will Young"
+        }
+    ],
+    "cranky": [
+        {
+            "title": "Bad Day",
+            "author": "Daniel Powter"
+        },
+        {
+            "title": "You're So Vain",
+            "author": "Carly Simon"
+        },
+        {
+            "title": "Complicated",
+            "author": "Avril Lavigne"
+        },
+        {
+            "title": "Shut Up",
+            "author": "The Black Eyed Peas"
+        },
+        {
+            "title": "Go Your Own Way",
+            "author": "Fleetwood Mac"
+        },
+        {
+            "title": "Tired of Being Sorry",
+            "author": "Enrique Iglesias"
+        },
+        {
+            "title": "Break Stuff",
+            "author": "Limp Bizkit"
+        },
+        {
+            "title": "Don't Speak",
+            "author": "No Doubt"
+        },
+        {
+            "title": "Snuff",
+            "author": "Slipknot"
+        }
+    ],
+    "bored": [
+        {
+            "title": "Is She Really Going Out With Him?",
+            "author": "Joe Jackson"
+        },
+        {
+            "title": "Bored",
+            "author": "Deftones"
+        },
+        {
+            "title": "Bored to Death",
+            "author": "Blink-182"
+        },
+        {
+            "title": "Boredom",
+            "author": "Buzzcocks"
+        },
+        {
+            "title": "I'm So Bored with the U.S.A.",
+            "author": "The Clash"
+        },
+        {
+            "title": "Boring",
+            "author": "The Brobecks"
+        },
+        {
+            "title": "Watching the Wheels",
+            "author": "John Lennon"
+        },
+        {
+            "title": "Boring",
+            "author": "Rihanna"
+        },
+        {
+            "title": "Bored in the House",
+            "author": "Tyga & Curtis Roach"
+        }
+    ],
+    "calm": [
+        {
+            "title": "Breathe",
+            "author": "Pink Floyd"
+        },
+        {
+            "title": "Mellow Yellow",
+            "author": "Donovan"
+        },
+        {
+            "title": "Albatross",
+            "author": "Fleetwood Mac"
+        },
+        {
+            "title": "Orinoco Flow",
+            "author": "Enya"
+        },
+        {
+            "title": "Weightless",
+            "author": "Marconi Union"
+        },
+        {
+            "title": "Watermark",
+            "author": "Enya"
+        },
+        {
+            "title": "Peaceful Easy Feeling",
+            "author": "Eagles"
+        }
+    ],
+    "optimistic": [
+        {
+            "title": "Beautiful Day",
+            "author": "U2"
+        },
+        {
+            "title": "Don't Stop",
+            "author": "Fleetwood Mac"
+        },
+        {
+            "title": "Lovely Day",
+            "author": "Bill Withers"
+        },
+        {
+            "title": "Good Vibrations",
+            "author": "The Beach Boys"
+        }
+    ],
+    "passionate": [
+        {
+            "title": "Total Eclipse of the Heart",
+            "author": "Bonnie Tyler"
+        },
+        {
+            "title": "With or Without You",
+            "author": "U2"
+        },
+        {
+            "title": "Sweet Child O' Mine",
+            "author": "Guns N' Roses"
+        }
+    ]
+}

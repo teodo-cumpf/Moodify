@@ -1,0 +1,28 @@
+@import "./variables.scss";
+@import "./mixins.scss";
+@import "./typography.scss";
+@import "../fonts/fonts.scss";
+
+//Component Styles
+@import "../../pages/HomePage/HomePage.scss";
+@import "../../components/buttons/styles.scss";
+@import "../../modals/ModalWrapper/ModalWrapper.scss";
+// @import "../../components/inputs/ColorInput/ColorInput.scss";
+
+body {
+    height: 100%;
+    margin: 0;
+}
+
+#root {
+    height: 100%;
+}
+
+:root {
+    background-color: $gray-90;
+    margin: 10px 0 0 20px;
+
+    @include mobile {
+        margin: 0;
+    }
+}

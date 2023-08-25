@@ -1,0 +1,31 @@
+.big-header {
+    color: $purple;
+    font-size: 60px;
+    font-weight: 800;
+    font-family: "Inter", Helvetica, sans-serif;
+
+    @include mobile {
+        font-size: 45px;
+    }
+}
+
+h1 {
+    color: $white;
+    font-weight: 600;
+    font-family: "Inter", Helvetica, sans-serif;
+
+    @include mobile {
+        font-size: 30px;
+    }
+}
+
+h2 {
+    color: $purple;
+    font-weight: 600;
+    font-family: "Inter", Helvetica, sans-serif;
+}
+
+
+span, h1, h2 {
+    margin: 0;
+}

@@ -1,0 +1,15 @@
+.mood_button {
+    background-color: $gray-90;
+    border: 1px solid $gray-50;
+    border-radius: $space-xxs;
+    padding: $space-xxs $space-xs;
+    width: fit-content;
+    display: flex;
+    gap: $space-xxs;
+    align-items: center;
+
+    &-text {
+        font-weight: 600;
+        font-size: 25px;
+    }
+}

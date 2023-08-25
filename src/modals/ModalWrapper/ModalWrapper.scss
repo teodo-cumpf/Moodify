@@ -1,0 +1,79 @@
+.modal_overlay {
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 2;
+    background-color: rgba(30, 30, 30, .7);
+
+    .modal_container {
+        background-color: $gray-90;
+        border: 1px solid $gray-50;
+        border-radius: $space-xxs;
+        position: relative;
+        padding: $space-xs;
+        width: 70%;
+        height: fit-content;
+
+        @include mobile {
+            width: 100%;
+        }
+
+        .close {
+            display: flex;
+            justify-content: flex-end;
+        }
+
+        .modal_header {
+            padding-top: $space-s;
+            
+            @include mobile {
+                display: flex;
+                flex-direction: column;
+                gap: $space-xxs;
+                padding-top: 0;
+
+            }
+
+            .modal_text {
+                @include mobile {
+                    font-size: 18px;
+                }
+            }
+        }
+
+        .edit_modal {
+            overflow-y: auto;
+            max-height: 600px;
+
+            .categories_wrapper {
+                display: flex;
+                flex-wrap: wrap;
+                text-align: left;
+                gap: $space-xs;
+                padding-top: $space-m;
+                justify-content: center;
+            }
+
+            .customized_mood {
+                display: flex;
+                padding-top: $space-m;
+                justify-content: space-between;
+                align-self: center;
+            
+            }
+            
+            .palete_container {
+                width: 45%;
+            }
+            
+            .emoji_container {
+                width: 45%;
+            }
+        }
+    }
+
+}
