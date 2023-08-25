@@ -12,9 +12,9 @@ const EmojiInput = (props: Props) => {
     return (
         <EmojiPicker
             theme={Theme.DARK}
-            // onEmojiClick={onClick}
             onEmojiClick={(emojiData) => onClick(emojiData)}
             autoFocusSearch
+            width={"100%"}
         />
     );
 }

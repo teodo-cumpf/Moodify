@@ -1,4 +1,4 @@
-import { ReactNode } from "react";
+import { ReactNode, useCallback, useEffect } from "react";
 
 import { ModalPortal } from "../../components/buttons";
 import { close_icon } from "../../utility/imageExporter";
@@ -14,6 +14,32 @@ interface ModalWrapperProps {
 
 const ModalWrapper = (props: ModalWrapperProps) => {
     const { header, title, isOpen, children, onClose } = props;
+
+    const handleEscapePress = useCallback((e: KeyboardEvent) => {
+        if (e.key === "Escape" && isOpen) {
+            onClose();
+        }
+    }, [isOpen, onClose]);
+
+    useEffect(() => {
+        document.addEventListener("keydown", handleEscapePress);
+        
+        return () => {
+            document.removeEventListener("keydown", handleEscapePress);
+        };
+    }, [handleEscapePress]);    
+
+    useEffect(() => {
+        if (isOpen) {
+            document.body.style.overflow = 'hidden';
+        } else {
+            document.body.style.overflow = 'auto';
+        }
+    
+        return () => {
+            document.body.style.overflow = 'auto';
+        }
+    }, [isOpen]);
 
     return (
         <ModalPortal>

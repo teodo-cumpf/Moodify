@@ -1,12 +1,13 @@
 .modal_overlay {
+    z-index: 2;
     height: 100%;
     width: 100%;
     position: fixed;
     top: 0;
+    left: 0;
     display: flex;
     align-items: center;
     justify-content: center;
-    z-index: 2;
     background-color: rgba(30, 30, 30, .7);
 
     .modal_container {
@@ -15,8 +16,11 @@
         border-radius: $space-xxs;
         position: relative;
         padding: $space-xs;
-        width: 70%;
+        width: 75%;
         height: fit-content;
+        overflow-x: auto;
+        max-height: 90vh;
+        overflow-y: auto;
 
         @include mobile {
             width: 100%;
@@ -25,6 +29,7 @@
         .close {
             display: flex;
             justify-content: flex-end;
+            cursor: pointer;
         }
 
         .modal_header {
@@ -61,17 +66,28 @@
             .customized_mood {
                 display: flex;
                 padding-top: $space-m;
-                justify-content: space-between;
-                align-self: center;
+                // justify-content: space-between;
+                gap: $space-xs;
             
+                @include mobile {
+                    flex-direction: column;
+                }
             }
             
             .palete_container {
-                width: 45%;
+                width: 50%;
+
+                @include mobile {
+                    width: 100%;
+                }
             }
             
             .emoji_container {
-                width: 45%;
+                width: 50%;
+
+                @include mobile {
+                    width: 100%;
+                }
             }
         }
     }
